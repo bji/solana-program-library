@@ -1,0 +1,13 @@
+url.js -- leave as is, already set up for testing
+rollup.config.js -- already updated for memo??
+babel.config.json -- leave as is
+babel.rollup.config.json -- leave as is
+cluster-devnet.env -- leave as is
+cluster-mainnet-beta.env -- leave as is
+clister-testnet.env -- leave as is
+module.d.ts -- I think this is generated?  If not, needs to be updated.
+module.flow.ts -- updated to list memo program
+package.json -- updated to list memo program
+package-lock.json -- I think this is generated?
+README.js -- updated to list memo details
+README.md -- updated to list memo details
